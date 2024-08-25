@@ -105,6 +105,14 @@ Interested in having others add to your project? Tell them how! Most GitHub base
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
+
+•	Visibility: Public Repos are visible to everyone and everyone can access and view the repository, its code and history while as Private repositories - GitHub allows developers to create private repositories, which can only be accessed by authorized users. Private repositories are useful for companies or individuals who want to keep their codebase private and secure. Private repositories can also be used for testing or development purposes before the code is made public. With private repositories, developers can collaborate on code without worrying about unauthorized access or theft of intellectual property.
+•	Contributors & Collaborators: with Public repos anyone can contribute to it by creating issues, forking the repository and submitting requests while as for Private repos only approved collaborators can contribute to a private repo. Collaborators must be added by repository owner.
+•	Uses cases: Public repos are often used for open-source projects, sharing code with the community or collaborating with a broader audience while as for Private repos they are used for projects that require confidentiality, such as proprietary development, internal company projects or projects at early stages of development.
+•	Cost: Creating and maintaining public repos on GitHub is basically free while Private repos require a paid GitHub subscription. However, GitHub offers free private repos for personal accounts and certain educational uses cases.
+-	Private repository limitations: While GitHub offers free public repositories, private repositories come with certain limitations, such as a limited number of collaborators. The number of collaborators allowed depends on the GitHub subscription plan you have.
+
+
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
